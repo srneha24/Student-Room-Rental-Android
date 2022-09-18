@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999804419365",
+    "firebase_url": "https://student-room-rental-default-rtdb.firebaseio.com",
+    "project_id": "student-room-rental",
+    "storage_bucket": "student-room-rental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999804419365:android:f86656742f4283587a6ecc",
+        "android_client_info": {
+          "package_name": "com.example.studentroomrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999804419365-1kk60npov315nof7uvgbk3udonqjotci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "FIREBASE_ANDROID_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999804419365-1kk60npov315nof7uvgbk3udonqjotci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
